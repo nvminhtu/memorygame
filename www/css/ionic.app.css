@@ -8250,3 +8250,10 @@ $ios-transition-box-shadow-end: -200px 0px 200px rgba(0,0,0,0.15), -5px 0px 5px 
     font-size: 70px; }
   .memory-game-easy .button .icon:before, .memory-game-easy .button.icon:before {
     font-size: 90px; } }
+.home-menu-button  img {
+	margin: 0 auto;
+}
+.title {
+	color: #fff;
+	font-size: 180%;
+}
